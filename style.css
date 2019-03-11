@@ -2,7 +2,6 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: url(/img);
   background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -124,7 +123,6 @@ hr {
 .container {
   padding: 80px 150px;
   background: #fff;
-  border: 1px solid #696968;
   width: 90%;
   margin: 0 auto;
   max-width: 500px;}
