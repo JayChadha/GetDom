@@ -570,6 +570,9 @@ hr {
         margin-left: 9px; }
         .game-container .game-message a.keep-playing-button {
           display: none; }
+          .retry-button{
+            color:#777777
+          }
       .game-container .game-message.game-won {
         background: #777777;
         color: #424242; }
