@@ -168,7 +168,7 @@ hr {
   box-sizing: border-box; }
   .game-container .game-message {
     display: none;
-    color: white;
+    color: black;
     position: absolute;
     top: 0;
     right: 0;
@@ -193,7 +193,7 @@ hr {
       display: block;
       margin-top: 59px; }
       .retry-button{
-        color:#777777
+        color:white
       }
     .game-container .game-message a {
       display: inline-block;
@@ -201,7 +201,7 @@ hr {
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
-      color: #ffffff;
+      color: black;
       height: 40px;
       line-height: 42px;
       margin-left: 9px; }
@@ -209,7 +209,7 @@ hr {
         display: none; }
     .game-container .game-message.game-won {
       background: rgba(119, 119, 119, 0.3);
-      color: #ffffff; }
+      color: black; }
       .game-container .game-message.game-won a.keep-playing-button {
         display: inline-block; }
     .game-container .game-message.game-won, .game-container .game-message.game-over {
@@ -565,7 +565,7 @@ hr {
         margin-top: 59px; }
       .game-container .game-message a {
         display: inline-block;
-        background: rgba(119,119,119,0.3);
+        background: white;
         border-radius: 3px;
         padding: 0 20px;
         text-decoration: none;
